@@ -35,7 +35,7 @@
 
 ---
 
-## ⚙️ Tech Stack (Animated ✨)
+## ⚙️ Tech Stack
 
 <p align="center">
   <!-- Animated glowing icons — upload them to /assets in your repo -->
