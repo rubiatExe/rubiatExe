@@ -1,9 +1,9 @@
-<!-- Glowing Capsule Banner -->
+<!-- 🌊 Glowing Capsule Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0891B2,100:00C7FF&text=Rubiat%20Bin%20Faisal%20🚀&fontSize=45&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Engineer%20|%20React%20•%20Node.js%20•%20Python&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0891B2,100:00C7FF&text=Rubiat%20Bin%20Faisal%20🚀&fontSize=45&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Engineer%20|%20React%20•%20Node.js%20•%20Python&descAlignY=60&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation Intro -->
+<!-- 👋 Typing Intro -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=2500&pause=700&color=00C7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rubiat!;Software+Engineer+%7C+Full-Stack+Developer;Building+Scalable,+Human-Centered+Products+🌍;Lifelong+Learner+💡" alt="Typing SVG" />
 </div>
@@ -12,7 +12,7 @@
 
 ## 🧭 About Me  
 
-🎓 **B.S. in Computer Science** — *Lehigh University*  
+🎓 **Bachelors in Computer Science** — *Lehigh University*  
 💡 Passionate about **Full-Stack Development (React, Node.js, Python)** and team leadership.  
 🤖 Exploring **AI/LLM integration** and scalable architecture.  
 🏆 Highlights:  
@@ -37,32 +37,23 @@
 
 ## ⚙️ Tech Stack (Animated ✨)
 
-<div align="center">
-
-<!-- Add animated tech stack icons using CSS keyframes hosted on GitHub or an inline SVG trick -->
-<a href="#"><img src="https://skillicons.dev/icons?i=ts,js,python,java,csharp,html,css,sql&theme=dark" alt="Languages" width="80%" style="animation: float 3s ease-in-out infinite;"/></a>  
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,unity,slack&theme=dark" alt="Frameworks" width="80%" style="animation: glow 4s ease-in-out infinite;"/></a>  
-<a href="#"><img src="https://skillicons.dev/icons?i=firebase,postgres,openai,vite,webpack,git,figma,jira&theme=dark" alt="Tools" width="80%" style="animation: pulse 2.5s ease-in-out infinite;"/></a>
-
-</div>
-
-<!-- Animated Glow Effects -->
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); filter: drop-shadow(0 0 6px #00C7FF); }
-  50% { transform: translateY(-6px); filter: drop-shadow(0 0 14px #00C7FF); }
-}
-
-@keyframes glow {
-  0%, 100% { filter: drop-shadow(0 0 6px #00C7FF); }
-  50% { filter: drop-shadow(0 0 14px #00C7FF); }
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; transform: scale(1); filter: drop-shadow(0 0 6px #00C7FF); }
-  50% { opacity: 0.8; transform: scale(1.05); filter: drop-shadow(0 0 16px #00EFFF); }
-}
-</style>
+<p align="center">
+  <!-- Animated glowing icons — upload them to /assets in your repo -->
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/ts-animated.svg" width="60" alt="TypeScript" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/js-animated.svg" width="60" alt="JavaScript" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/python-animated.svg" width="60" alt="Python" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/java-animated.svg" width="60" alt="Java" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/react-animated.svg" width="60" alt="React" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/next-animated.svg" width="60" alt="Next.js" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/node-animated.svg" width="60" alt="Node.js" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/tailwind-animated.svg" width="60" alt="TailwindCSS" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/redux-animated.svg" width="60" alt="Redux" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/firebase-animated.svg" width="60" alt="Firebase" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/postgres-animated.svg" width="60" alt="Postgres" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/openai-animated.svg" width="60" alt="OpenAI" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/git-animated.svg" width="60" alt="Git" />
+  <img src="https://github.com/rubiatExe/rubiatExe/blob/main/assets/figma-animated.svg" width="60" alt="Figma" />
+</p>
 
 ---
 
@@ -78,34 +69,4 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00C7FF&icon_color=00C7FF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubiatExe&theme=tokyonight&hide_border=true&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" />
-  <br/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiatExe&layout=compact&theme=tokyonight&hide_border=true&title_color=00C7FF&text_color=FFFFFF&bg_color=1a1b27" />
-</div>
-
----
-
-## 🐍 Animated Contribution Graph  
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rubiatExe/rubiatExe/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rubiatExe/rubiatExe/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/rubiatExe/rubiatExe/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 🎨 Fun Stats  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rubiatExe&label=Profile+Views&color=00C7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rubiatExe?label=Followers&style=for-the-badge&color=0891B2" />
-</p>
-
-<!-- Animated Wave Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891B2,100:00C7FF" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true_
