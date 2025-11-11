@@ -1,13 +1,11 @@
 <div align="center">
-
-# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<a href="https://komarev.com/ghpvc/?username=rubiatExe&style=flat-square&color=blueviolet">
-  <img src="https://komarev.com/ghpvc/?username=rubiatExe&style=flat-square&color=blueviolet" alt="visitors"/>
-</a>
-<br/>
-<br/>
-
-**Building end-to-end, user-centric products in startup environments.**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rubiat+Bin+Faisal;Software+Engineer;Full-Stack+Developer+(React,+Node.js,+Python)" alt="Typing SVG" />
+  </a>
+  <br/>
+  <br/>
+  
+**🚀 Building end-to-end, user-centric products in startup environments.**
 </div>
 
 ---
@@ -42,8 +40,12 @@
 
 ### 🛠️ Skills & Tools
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=ts,js,python,java,csharp,sql,html,css,react,nextjs,nodejs,express,tailwind,redux,unity,git,vite,webpack,postgres,firebase,openai,figma,jira&theme=dark&perline=8">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java,csharp,sql,html,css,react,nextjs,nodejs,express,tailwind,redux,unity,git,vite,webpack,postgres,firebase,openai,figma,jira&theme=dark&perline=8" alt="My Skills"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,csharp,sql,html,css&perline=8&theme=dark" alt="Languages"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,unity,slack&perline=8&theme=dark" alt="Frameworks & Libraries"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,postgres,firebase,openai,vite,webpack,figma,jira&perline=8&theme=dark" alt="Tools, Platforms & DBs"/>
   </a>
 </div>
 
@@ -51,7 +53,7 @@
 
 ### ✨ Featured Projects
 * **[Jaya-verse](https://github.com/rubiatExe/Jaya-verse)** — Full-stack wellness & connection hub (Next.js, React, TS) with a Firebase/Firestore backend for real-time data sync.
-* **Mentessa Slack App** — Engineered a real-time conversational feature by integrating the **OpenAI GPT-3.5 API** using React and Slack Block Kit.
+* **Mentessa Slack App** — Engineered a real-time conversational feature by integrating the **OpenAI GPT-3.5 API** using React and Slack Block Kit, boosting user query success by 20%.
 * **Lehigh RiVR Learning** — Implemented core interactive UI in **Unity** & C# for a VR project; won 'Best Project' (top 0.5% of 200+).
 * **Save Tuba** — Led a 4-person team to build an Android app (MVVM) engaging 5,000+ students, boosting retention by 12%.
 
@@ -62,7 +64,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=default&hide_border=true&title_color=0891b2&icon_color=0891b2" />
-    <img src="httpsT://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Rubiat's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Rubiat's GitHub Stats" />
   </picture>
   <br/>
   <picture>
