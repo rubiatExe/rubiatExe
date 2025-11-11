@@ -63,7 +63,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=default&hide_border=true&title_color=0891b2&icon_color=0891b2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats..app/api?username=rubiatExe&show_icons=true&count_private=true&theme=default&hide_border=true&title_color=0891b2&icon_color=0891b2" />
     <img src="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Rubiat's GitHub Stats" />
   </picture>
   <br/>
@@ -74,7 +74,7 @@
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiatExe&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1a1b27" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiatExe&layout=compact&theme=default&hide_border=true&title_color=0891b2&text_color=444" />
+    <source media="(prefers-color-scheme: light)" srcset="https_readme-stats.vercel.app/api/top-langs/?username=rubiatExe&layout=compact&theme=default&hide_border=true&title_color=0891b2&text_color=444" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiatExe&layout=compact&theme=tokyonight&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1a1b27" alt="Rubiat's Top Languages" />
   </picture>
 </div>
