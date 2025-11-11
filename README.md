@@ -9,49 +9,39 @@
   <a href="mailto:ruby.bin99@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/rubiatExe/Jaya-verse" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Featured%20Project-Jaya--verse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Featured Project" />
+  </a>
 </p>
 
-### 💡 About Me
-[cite_start]Results-driven Software Engineer with a Bachelor's in Computer Science from Lehigh University[cite: 5, 6]. [cite_start]My experience is centered on full-stack development, with a strong command of React, Node.js, Python, TypeScript, and PostgreSQL[cite: 3, 8, 9]. [cite_start]I have a track record of leading small teams and delivering end-to-end products in startup environments, including developing responsive UIs, implementing scalable state management, and integrating APIs like OpenAI GPT[cite: 4, 15, 21].
-
-* 🌍 I'm based in New York, NY / Bethlehem, PA.
+### ⚡ About Me
+* [cite_start]🔭 I’m a Software Engineer specializing in Full-Stack Development with React, Node.js, and Python[cite: 3].
+* [cite_start]🎓 I'm a Computer Science graduate from Lehigh University[cite: 5, 6].
+* [cite_start]🚀 I have a track record of shipping end-to-end products and leading teams in startup environments[cite: 4, 32].
+* [cite_start]💡 My experience includes integrating the **OpenAI GPT API** [cite: 21][cite_start], building responsive UIs [cite: 14, 20][cite_start], and optimizing app performance by up to 50%[cite: 23, 34].
+* [cite_start]🏆 I've led projects to win awards (e.g., 'Best Project' out of 200+) [cite: 26, 29] [cite_start]and engage over 5,000 users[cite: 32].
 * 🤝 I'm open to collaborating on full-stack and AI-driven web applications.
 
 ---
 
-### 🚀 Experience Highlights
-A quick look at my key achievements:
+### 💻 Technologies & Tools
 
-* [cite_start]**Stealth Startup:** Developed a responsive UI (React, TypeScript) and implemented scalable state management with Redux for a hybrid desktop app[cite: 14, 15].
-* [cite_start]**Mentessa:** Engineered a real-time conversational feature by integrating the **OpenAI GPT-3.5 API** into a Slack app, boosting user query success by 20%[cite: 21, 22].
-* [cite_start]**Lehigh RiVR:** Implemented core interactive UI in C# & **Unity** for a VR project that won 'Best Project' (top 0.5% of 200+ submissions)[cite: 26, 29].
-* [cite_start]**Save Tuba:** Led a 4-person team to build a sustainability-focused Android app, engaging 5,000+ students and boosting user retention by 12%[cite: 32, 33].
-
----
-
-### ✨ Featured Project
-
-#### [Jaya-verse: Full-stack Wellness and Connection Hub](https://github.com/rubiatExe/Jaya-verse)
-[cite_start]Built a full-stack web application as a one-stop shop for wellness tracking and global friend connection[cite: 37, 38].
-* [cite_start]**Tech:** Next.js, React, and TypeScript[cite: 38].
-* [cite_start]**Backend:** Implemented a Google Cloud backend using **Firebase Firestore** for live data synchronization[cite: 39].
-* [cite_start]**Features:** Real-time activity feed, user status updates, and an interactive world map[cite: 39].
-
----
-
-### 💻 My Tech Stack
-This is a curated list of technologies I have professional experience with, as reflected on my resume.
-
-#### Languages
+#### Programming Languages
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
+</p>
+
+#### Databases & APIs
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="36" height="36" /></a>
 </p>
 
 #### Frameworks & Libraries
@@ -66,16 +56,14 @@ This is a curated list of technologies I have professional experience with, as r
   <a href="https://api.slack.com/block-kit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/slack-colored.svg" alt="Slack Block Kit" title="Slack Block Kit" width="36" height="36" /></a>
 </p>
 
-#### Developer Tools, Platforms & APIs
+#### Developer Tools & Platforms
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36"D" height="36" /></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="36" height="36" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
   <a href="httpsRead.webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a>
-  <a href="https.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-  <a href="https.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jira-colored.svg" alt="Jira" title="Jira" width="36" height="36" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jira-colored.svg" alt="Jira" title="Jira" width="36" height="36" /></a>
 </p>
 
 ---
