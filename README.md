@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi ther ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <a href="https://komarev.com/ghpvc/?username=rubiatExe&style=flat-square&color=blueviolet">
   <img src="https://komarev.com/ghpvc/?username=rubiatExe&style=flat-square&color=blueviolet" alt="visitors"/>
 </a>
@@ -42,24 +42,9 @@
 
 ### 🛠️ Skills & Tools
 <div align="center">
-  <p>
-    <!-- Languages -->
-    <a href="https://skillicons.dev/icons?i=ts,js,python,java,csharp,sql,html,css&theme=dark&perline=8">
-      <img src="https://skillicons.dev/icons?i=ts,js,python,java,csharp,sql,html,css&theme=dark&perline=8" alt="Languages"/>
-    </a>
-  </p>
-  <p>
-    <!-- Frameworks & Libraries -->
-    <a href="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,unity&theme=dark&perline=7">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,unity&theme=dark&perline=7" alt="Frameworks & Libraries"/>
-    </a>
-  </p>
-  <p>
-    <!-- Tools, Platforms & DBs -->
-    <a href="https://skillicons.dev/icons?i=git,vite,webpack,postgres,firebase,openai,figma,jira&theme=dark&perline=8">
-      <img src="https://skillicons.dev/icons?i=git,vite,webpack,postgres,firebase,openai,figma,jira&theme=dark&perline=8" alt="Tools, Platforms & DBs"/>
-    </a>
-  </p>
+  <a href="https://skillicons.dev/icons?i=ts,js,python,java,csharp,sql,html,css,react,nextjs,nodejs,express,tailwind,redux,unity,git,vite,webpack,postgres,firebase,openai,figma,jira&theme=dark&perline=8">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,csharp,sql,html,css,react,nextjs,nodejs,express,tailwind,redux,unity,git,vite,webpack,postgres,firebase,openai,figma,jira&theme=dark&perline=8" alt="My Skills"/>
+  </a>
 </div>
 
 ---
@@ -77,7 +62,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=default&hide_border=true&title_color=0891b2&icon_color=0891b2" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Rubiat's GitHub Stats" />
+    <img src="httpsT://github-readme-stats.vercel.app/api?username=rubiatExe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Rubiat's GitHub Stats" />
   </picture>
   <br/>
   <picture>
@@ -96,5 +81,9 @@
 
 ### 🐍 My Contribution Graph
 <div align="center">
-  <img src="httpsNext.github-contribution-grid-snake.vercel.app/api/grid-snake?user_name=rubiatExe&theme=dark" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-grid-snake.vercel.app/api/grid-snake?user_name=rubiatExe&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-grid-snake.vercel.app/api/grid-snake?user_name=rubiatExe&theme=light" />
+    <img src="https://github-contribution-grid-snake.vercel.app/api/grid-snake?user_name=rubiatExe&theme=dark" alt="Contribution Snake"/>
+  </picture>
 </div>
