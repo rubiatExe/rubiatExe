@@ -12,7 +12,7 @@
 
 ## 🧭 About Me  
 
-🎓 **B.S. in Computer Science** — *Lehigh University*  
+🎓 **Bachelors in Computer Science** — *Lehigh University*  
 💡 Passionate about **React**, **Node.js**, **Python**, and **AI-driven apps**.  
 ⚡ I enjoy building high-performance, user-focused solutions that scale.  
 🏆 Achievements:  
