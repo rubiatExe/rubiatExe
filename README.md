@@ -31,7 +31,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------|
-| ⚡ [**Managify**](https://github.com/rubiatExe/Managify)<br><a href="https://managii-dubo.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-2ea44f?style=for-the-badge&logo=vercel" height="25"/></a> | **AI-Powered Job Tracker & Resume Tailor.**<br>Uses **Gemini 2.0** to rewrite resumes based on job descriptions + Chrome Extension for one-click scraping. | Next.js 16, TypeScript, Gemini AI, PostgreSQL |
+| ⚡ [**Managify**](https://github.com/rubiatExe/Managify)<br><a href="https://managii.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-2ea44f?style=for-the-badge&logo=vercel" height="25"/></a> | **AI-Powered Job Tracker & Resume Tailor.**<br>Uses **Gemini 2.0** to rewrite resumes based on job descriptions + Chrome Extension for one-click scraping. | Next.js 16, TypeScript, Gemini AI, PostgreSQL |
 | 🧘 [**Jaya-verse**](https://github.com/rubiatExe/Jaya-verse)<br><a href="https://jaya-verse.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-2ea44f?style=for-the-badge&logo=vercel" height="25"/></a> | **Full-stack Wellness Hub.**<br>Features real-time data sync, personalized dashboards, and interactive UI for shared journaling. | Next.js, Firebase, Tailwind CSS |
 
 ---
