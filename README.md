@@ -32,7 +32,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|------|
 | ⚡ [**Managify**](https://github.com/rubiatExe/Managii)<br><a href="https://managii.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-2ea44f?style=for-the-badge&logo=vercel" height="25"/></a> | **AI-Powered Job Tracker & Resume Tailor.**<br>Uses **Gemini 2.0** to rewrite resumes based on job descriptions + Chrome Extension for one-click scraping. | Next.js 16, TypeScript, Gemini AI, PostgreSQL |
-| 🤖 [**TeamFlow**](https://github.com/rubiatExe/TeamFlow)<br><a href="team-floww.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-2ea44f?style=for-the-badge&logo=vercel" height="25"/></a> | **AI Data Extraction & Evaluation Engine.**<br>Ingests unstructured data via a dedicated Python microservice, outputting strict relational schemas and automated scoring. | Next.js, Python, Supabase, Gemini AI |
+| 🤖 [**TeamFlow**](https://github.com/rubiatExe/TeamFlow)<br><a href="team-floww.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-2ea44f?style=for-the-badge&logo=vercel" height="25"/></a> | **AI-Powered Job screener**<br>TeamFlow transforms the hiring process for small businesses with AI-powered resume parsing, intelligent candidate scoring, and a frictionless application experience. Built for busy hiring managers who need to make fast, informed decisions, and candidates who want to quickly find part-time roles that match their skills. | Next.js, Python, Supabase, Gemini AI |
 ---
 
 ## 🏆 Professional Experience & Impact
